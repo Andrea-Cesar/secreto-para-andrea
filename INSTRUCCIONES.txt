@@ -1,0 +1,9 @@
+UN SECRETO PARA ANDREA - VERSION CINEMATOGRAFICA
+
+1. Extrae el ZIP.
+2. En GitHub, repositorio secreto-para-andrea, sube index.html y la carpeta assets con sus tres archivos.
+3. Confirma los cambios. Espera a que GitHub Pages publique.
+4. Abre https://andrea-cesar.github.io/secreto-para-andrea/
+5. Prueba abrir el sobre, escuchar la musica y el boton WhatsApp.
+
+IMPORTANTE: GitHub Pages es publico. El audio proporcionado es una interpretacion de una obra musical protegida: comprueba que tienes autorizacion para publicarlo. Esta version de prueba contiene la grabacion original, incluidas voces al final; aun no es una version final para compartir con invitados.
